@@ -1,0 +1,1 @@
+This folder contains sample InputLists that work with the program. Rename the appropiate file that you want to use to "InputList.txt" from "InputList.txt.x" with x being a number. You can also create your own wordlists by using any text editor. When creating your own wordlist, include each word/phrase on its own line since the program treats each line as a separate entry.
